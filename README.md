@@ -1,1 +1,1 @@
-#currency Exchanger using JavaScript 
+Currency Exchanger using JavaScript 
