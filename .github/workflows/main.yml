@@ -5,7 +5,7 @@ name: Deploy node.js CORE
 on:
     push:
       branhces:
-      -master
+      - master
 
 env:
     AZURE_WEBAPP_NAME:currencyconverterinjavascript
